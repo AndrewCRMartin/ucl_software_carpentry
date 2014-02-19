@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import time
 
 print "hello world"
